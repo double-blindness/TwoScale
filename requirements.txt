@@ -1,0 +1,5 @@
+opencv-python==4.9.0.80
+prometheus-client==0.20.0
+kubernetes-python-client @ git+https://github.com/double-blindness/kubernetes-python-client
+barazmoon @ git+https://github.com/double-blindness/load_tester
+scipy==1.13.0
